@@ -1,0 +1,1 @@
+This is a CLI for playing and creating text-based adventure games.
