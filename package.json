@@ -1,5 +1,5 @@
 {
-  "name": "txt-adventures",
+  "name": "@NolanKnight/txt-adventures",
   "version": "1.0.0",
   "description": "CLI adventure games.",
   "main": "dist/index.js",
@@ -10,8 +10,14 @@
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "cli",
+    "npmtool"
+  ],
   "author": "Nolan Knight",
   "license": "MIT",
+  "repository": "https://github.com/NolanKnight/txt-adventures.git",
+  "homepage": "https://github.com/NolanKnight/txt-adventures.git#readme",
   "dependencies": {
     "boxen": "^7.1.0",
     "chalk": "^5.2.0",
