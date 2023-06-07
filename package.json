@@ -1,5 +1,5 @@
 {
-  "name": "@NolanKnight/txt-adventures",
+  "name": "txt-adventures",
   "version": "1.0.0",
   "description": "CLI adventure games.",
   "main": "dist/index.js",
